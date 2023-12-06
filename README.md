@@ -31,17 +31,8 @@ Note: please insert the screenshot of the answers to your research question by C
 ## Method
 
 ## Data
-- Data Source:
-- Queried Data
-- Processed Data
-- ...
-
 
 ## Code
-- Query Data
-- Process Data
-- Analyze Data
-- ...
 
 # Result
 
