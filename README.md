@@ -17,13 +17,18 @@ Note: please insert the screenshot of the answers to your research question by C
   - [Intellectual Merits and Practical impacts of your project.]
 
 ## Table of Contents
+- literature
+- method
 - data
 - code
+- results
 - spotlight
 - more about the author
 - references
 
+## Literature
 
+## Method
 
 ## Data
 - Data Source:
@@ -37,6 +42,8 @@ Note: please insert the screenshot of the answers to your research question by C
 - Process Data
 - Analyze Data
 - ...
+
+# Result
 
 ## Spotlight
 - Posters
