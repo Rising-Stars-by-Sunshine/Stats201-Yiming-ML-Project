@@ -34,7 +34,7 @@ Note: please insert the screenshot of the answers to your research question by C
 
 ## Code
 
-# Result
+## Result
 
 ## Spotlight
 - Posters
