@@ -1,4 +1,4 @@
-# Title [Harnessing Machine Learning for Understanding Global Energy and Predicting Renewable Energy Consumption Trends in Asia]
+# Harnessing Machine Learning for Understanding Global Energy and Predicting Renewable Energy Consumption Trends in Asia
 ## Project information
 - **Author**:Yiming Yuan, Applied Mathematics and Computer Science, Class of 2025, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
