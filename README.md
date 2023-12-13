@@ -356,7 +356,8 @@ Yiming Yuan, an undergraduate at Duke Kunshan University, majored in Applied Mat
 - Jun Wen, Chukwuemeka Valentine Okolo, Ifeanyi Celestine Ugwuoke, Kibir Kolani,
 Research on influencing factors of renewable energy, energy efficiency, on technological innovation. Does trade, investment and human capital development matter?
 Energy Policy, Volume 160, 2022, 112718, ISSN 0301-4215, https://doi.org/10.1016/j.enpol.2021.112718.
-- Meng, Zhaosu, Huike Sun, and Xi Wang. “Forecasting Energy Consumption Based on SVR and Markov Model: A Case Study of China.” Frontiers, April 6, 2022. https://www.frontiersin.org/articles/10.3389/fenvs.2022.883711/full. 
+- Meng, Zhaosu, Huike Sun, and Xi Wang. “Forecasting Energy Consumption Based on SVR and Markov Model: A Case Study of China.” Frontiers, April 6, 2022. https://www.frontiersin.org/articles/10.3389/fenvs.2022.883711/full.
+- Sarswatula, Sai Aravind, Tanna Pugh, and Vittaldas Prabhu. “Modeling Energy Consumption Using Machine Learning.” Frontiers, May 31, 2022. https://www.frontiersin.org/articles/10.3389/fmtec.2022.855208/full.  
  
 
 
