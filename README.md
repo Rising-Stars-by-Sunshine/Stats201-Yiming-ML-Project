@@ -5,28 +5,28 @@
 - **Disclaimer**: Submissions to the Final Project for [STATS201 Introduction to Machine Learning for Social Science, 2023 Autumn Term (Seven Week - Second)](https://ms.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: I would like to thank Prof. Luyao Zhang for her detailed and enthusiastic instructions on machine learning methods and the constructive comments on my research design and implementation. Thanks to all of my classmates for their tips on my data analysis methods and their peer evaluation which helped me improve my work. Thanks for the wonderful class atmosphere!
 - **Project Summary**: 
-  - Background/Motivation
+  - **Background/Motivation**
     
     Global CO2 emissions from energy combustion and industrial processes grew by 0.9% or 321 Mt in 2022, reaching up to a new all-time high of 36.8 Gt (IEA 2023). However, Emissions need to fall to 9.7 Gt in 2050 for an emissions pathway compatible with the 2 °C target of the Paris Agreement (Gielen et al. 2019). Renewable energy makes up most of the emission reductions. Therefore, with the growing global demand for renewable energy, understanding the main factors affecting energy consumption becomes crucial. The proliferation of renewable energy is essential for achieving climate targets, reducing dependence on fossil fuels, and promoting sustainable economic development.
     
-  - Research Questions
+  - **Research Questions**
     1. What is the current CO2 emission situation globally?
     2. Which is the best model, among linear regression, random forest, and gradient boosting, that fits the prediction curve concerning renewable energy consumption in Asia?
     3. What is the trend of renewable energy consumption in Asia going in the coming 3 years?
 
-  - Application Scenario (Data Source)
+  - **Application Scenario (Data Source)**
     
     [Global data on sustainable energy (2021-2022)](https://datacatalog.worldbank.org/search/dataset/0037712/World-Development-Indicators) from WDI and [Global data on sustainable energy (2000-2020)](https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy) on Kaggle. A total of one dataset with 21 columns and 3649 data items is involved.
     
-  - Methodology
+  - **Methodology**
 
     First, this research applies data visualization to uncover the CO2 Emission Situation and raises the significance of energy consumption. Second, it provides classification by continent and then continues to focus on Asia. Third, it explores the Correlation among indicators via Heatmap and Scatterplot, to find the significant features of renewable energy consumption. Last, this research applies three models for Prediction: Linear Regression, Random Forest, and Gradient Boosting; and the VAR (Vector autoregressive model) for forecasting the future trend.
     
-  - Results
+  - **Results**
 
     The study found that Carbon dioxide emissions have fluctuated rapidly over the past two decades. Moreover, Asia's energy consumption is growing significantly. In addition, through the VAR model, the study finds that renewable energy consumption in Asia will continue to rise in the coming years till 2025.
     
-  - Intellectual Merits and Practical impacts of your project.
+  - **Intellectual Merits and Practical impacts of your project**
 
     1. Through a combination of exploratory data analysis and predictive modeling techniques, this research raises the significance of renewable energy and provides the forecasting of energy consumption trends.
     2. By leveraging this dataset, this research intends to uncover insights into the evolving landscape of energy consumption patterns. This endeavor contributes to well-informed decision-making in the domains of energy policies and investments.
@@ -67,14 +67,16 @@ Yiming Yuan, an undergraduate at Duke Kunshan University, majored in Applied Mat
 
 ## Resume
 
-### Complete PDF version here
-[Resume:yiming:github.pdf](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS1/files/13330152/Resume.yiming.github.pdf)
-- Final reflections 
-  - intellectual growth
+**Complete PDF version here**
+[github-Yiming Yuan-Resume.pdf](https://github.com/Rising-Stars-by-Sunshine/Stats201-Yiming-ML-Project/files/13659169/github-Yiming.Yuan-Resume.pdf)
+
+
+- **Final reflections** 
+  - **intellectual growth**
     
-  - professional growth
+  - **professional growth**
     
-  - living a purposeful life
+  - **living a purposeful life**
     
 
 ## References
