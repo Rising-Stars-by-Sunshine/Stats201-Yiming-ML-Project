@@ -395,10 +395,15 @@ Yiming Yuan, an undergraduate at Duke Kunshan University, majored in Applied Mat
 - **Final reflections** 
   - **intellectual growth**
     
+   In this course, my goal is to grow knowledge by understanding the application of machine learning to solve complex social and economic problems. Machine learning can process large and complex data, allowing users to extract useful information from it and create useful research patterns. For me, the magic of interdisciplinary research lies in its ability to fuse different perspectives and approaches to lead to holistic and innovative solutions
+    
   - **professional growth**
+ 
+    From the basic learning of Github and Colab, to the main learning of prediction, some bonus learning of blockchain, cryptocurrency, and finally to the advanced learning about causal inference, this is an interesting and meaningful journey which improves my coding, logic and horizons. Professionally, this course will equip me with a distinctive blend of technical and social science skills, shaping a versatile professional profile adept at addressing multifaceted challenges across various domains.
     
   - **living a purposeful life**
-    
+
+    As a trailblazer in this field, I aspire to establish a legacy that resonates with sustainabe development and machine learning. I envision a future where my contributions are recognized, with a feature sentence "Awarded for developing revolutionary machine learning models that optimize energy usage and distribution, significantly reducing the environmental impact and fostering sustainable practices worldwide, while also addressing socio-economic disparities in energy access". Two of my contributions might be, 1. developing advanced machine learning algorithms that can accurately predict energy demands, helping to optimize the distribution of resources and reduce waste; 2. creating models that efficiently integrate renewable energy sources into existing grids, balancing the intermittency of sources like solar and wind.
 
 ## References
 
