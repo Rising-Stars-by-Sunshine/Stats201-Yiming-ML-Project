@@ -68,3 +68,6 @@ Optimize the hyperparameters and configurations specific to the Random Forest Re
 
 c. Stability Assessment: 
 Implement cross-validation techniques suitable for time series data to ensure stability and reliability. 
+
+**Flowchart**
+![image](spotlight/figures/method.png)
