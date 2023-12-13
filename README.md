@@ -177,6 +177,7 @@ It is apparent to find that there exist null data, which should be cleaned befor
 Data section includes data query and data analysis.
 
 **1. Data Querying**
+
   The main part of the data was directly downloaded from
 1.	 https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy, which is an open data source sorted by Ansh Tanwar. 
 2.	 New data for 2021-2022 from the World Bank https://datacatalog.worldbank.org/search/dataset/0037712/World-Development-Indicators
@@ -185,6 +186,7 @@ Data section includes data query and data analysis.
 
 
 **Code**
+
 Two Ways to access it:
 1. See ipynb code uploaded to Github [here](https://github.com/Rising-Stars-by-Sunshine/Stats201-Yiming-ML-Project/blob/main/code/scraper.py).
 2. [Link for code in CoLab](https://colab.research.google.com/drive/1GVRQS_lPPvG4PGDtL9XREuSXiEv3eQit?usp=sharing)
@@ -227,21 +229,22 @@ When the script is run:
 **2. Data Analysis**
 
 **Methodology:**
-1. Data Preparation
+a. Data Preparation
 
-2. CO2 Emission Situation 
+b. CO2 Emission Situation 
 
-3. Classification: by Region
+c. Classification: by Region
 
-4. Indicator Correlation
+d. Indicator Correlation
 - Animation on a World map
 - Heatmap
 - Scatterplot
 
-5. Prediction
+e. Prediction
 - Linear Regression
 - Random Forest
 - Gradient Boosting
+- VAR model for forecasting the future trend
 
 **Code**
 
@@ -309,10 +312,6 @@ Two Ways to access it:
 
 **flowchart**
 ![image](spotlight/figures/DataAnalysis.png)
-
-**Data Analysis**
-CoLab Link: https://colab.research.google.com/drive/1GVRQS_lPPvG4PGDtL9XREuSXiEv3eQit?usp=sharing
-Folder [here](https://github.com/Rising-Stars-by-Sunshine/Stats201-Yiming-ML-Project/tree/main/code) containing more files and details
 
 ## Result
 Folder here containing more details about 
