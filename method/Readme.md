@@ -70,4 +70,4 @@ c. Stability Assessment:
 Implement cross-validation techniques suitable for time series data to ensure stability and reliability. 
 
 **Flowchart**
-![Description of Image](spotlight/figures/method.png)
+![image](method.png)
