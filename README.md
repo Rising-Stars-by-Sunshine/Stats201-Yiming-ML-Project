@@ -44,7 +44,6 @@
 
 ## Literature
 The existing research uses the SVR model for forecasting energy consumption, focused on China (Meng et al., 2022). In my research, I apply the VAR model for forecasting renewable energy consumption in Asia, which covers a larger area. VAR is especially useful for forecasting interrelated time series and analyzing the dynamic impact of random disturbances, which means it can capture the relationship between several variables over time. However, the prediction accuracy of 97.5% is a bit lower than the existing research, which is possibly because of the diversity in Asian countries.
-![image](DataQueryCode.png)
 
 ## Method
 Folder here containing more details about The Prediction Problem and The Machine Learning Workflow
@@ -63,7 +62,7 @@ Folder here containing more details about
 Folder here containing all applied figures 
 
 ## More about the Author
-![Description of Image](spotlight/YimingYuan.png)
+![Description of Image](spotlight/figures/YimingYuan.png)
 
 Yiming Yuan, an undergraduate at Duke Kunshan University, majored in Applied Mathematics. My interests are in mathematics, especially probability and statistics; in disciplinary learning, especially machine learning. I was a research assistant studying the impacts on mental health from climate change based on sentimental analysis; I also have experience in image recognition based on Nmist and Cifar.
 
