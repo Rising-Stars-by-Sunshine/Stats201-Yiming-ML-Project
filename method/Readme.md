@@ -6,7 +6,7 @@ In Method, I will introduce my research on Machine Learning for Prediction from 
 
 **1.1. Research Question Formulation:** 
 - **Objective:**
-- 
+
 What is the current CO2 emission situation?
 
 What is the best model that fits the prediction curve concerning renewable energy consumption in Asia?
