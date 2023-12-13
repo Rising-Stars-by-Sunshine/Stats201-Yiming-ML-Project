@@ -71,3 +71,14 @@ Implement cross-validation techniques suitable for time series data to ensure st
 
 **Flowchart**
 ![image](method.png)
+
+**References**
+- Bettarelli, Luca, Davide Furceri, Pietro Pizzuto, and Nadia Shakoor. 2023. "Environmental Policies and Innovation in Renewable Energy." International Monetary Fund. September 1. https://www.imf.org/en/Publications/WP/Issues/2023/09/01/Environmental-Policies-and-Innovation-in-Renewable-Energy-538759.
+- Dolf Gielen, Francisco Boshell, Deger Saygin, Morgan D. Bazilian, Nicholas Wagner, Ricardo Gorini,The role of renewable energy in the global energy transformation,Energy Strategy Reviews, Volume 24, 2019, Pages 38-50, ISSN 2211-467X, https://doi.org/10.1016/j.esr.2019.01.006.
+- Folk, Emily. “What the Future of Renewable Energy Looks Like.” Earth.Org, April 3, 2023. https://earth.org/the-growth-of-renewable-energy-what-does-the-future-hold/.  
+- IEA (2023), CO2 Emissions in 2022, IEA, Paris https://www.iea.org/reports/co2-emissions-in-2022 
+- Jun Wen, Chukwuemeka Valentine Okolo, Ifeanyi Celestine Ugwuoke, Kibir Kolani,
+Research on influencing factors of renewable energy, energy efficiency, on technological innovation. Does trade, investment and human capital development matter?
+Energy Policy, Volume 160, 2022, 112718, ISSN 0301-4215, https://doi.org/10.1016/j.enpol.2021.112718.
+- Meng, Zhaosu, Huike Sun, and Xi Wang. “Forecasting Energy Consumption Based on SVR and Markov Model: A Case Study of China.” Frontiers, April 6, 2022. https://www.frontiersin.org/articles/10.3389/fenvs.2022.883711/full.
+- Sarswatula, Sai Aravind, Tanna Pugh, and Vittaldas Prabhu. “Modeling Energy Consumption Using Machine Learning.” Frontiers, May 31, 2022. https://www.frontiersin.org/articles/10.3389/fmtec.2022.855208/full.  
