@@ -8,12 +8,12 @@ Data section includes data query and data analysis.
   Additionally, there is also a data query code for the Weibo platform, which is all written by me. This program crawls posts from the social media platform we want by keyword and time period, including the content of the post, user name, when it was posted, where it was posted, and so on. See the code below.
 
 
-### Code
+**Code**
 Two Ways to access it:
 1. See ipynb code uploaded to Github [here](https://github.com/Rising-Stars-by-Sunshine/Stats201-Yiming-ML-Project/blob/main/code/scraper.py).
 2. [Link for code in CoLab](https://colab.research.google.com/drive/1GVRQS_lPPvG4PGDtL9XREuSXiEv3eQit?usp=sharing)
 
-###  pseudo-code
+**pseudo-code**
 ```
 Create a class named Demo
 
@@ -44,13 +44,13 @@ When the script is run:
     - Call the start method on the instance.
 ```
 
-### flowchart
+**flowchart**
 ![image](DataQueryCode.png)
 
 
 ## Data Analysis
 
-### Methodology:
+**Methodology:**
 1. Data Preparation
 
 2. CO2 Emission Situation 
@@ -67,20 +67,20 @@ When the script is run:
 - Random Forest
 - Gradient Boosting
 
-### Code
+**Code**
 
-**Data Process**
+**1. Data Process**
 Two Ways to access it:
 1. See py code uploaded to Github [here](https://github.com/Rising-Stars-by-Sunshine/Stats201-Yiming-ML-Project/blob/main/code/process.py)
 2.  [Link for code in CoLab](https://colab.research.google.com/drive/14pV7HPZY4tLFAsLHBs_Tk4hbmpbAdEHz?usp=sharing)
 
-**Data Analysis**
+**2. Data Analysis**
 Two Ways to access it:
 1. See py code uploaded to Github [here](https://github.com/Rising-Stars-by-Sunshine/Stats201-Yiming-ML-Project/blob/main/code/data_analysis.py).
 
 2. [Link for code in CoLab](https://colab.research.google.com/drive/1EiOV6f8YtB9a-EhkOMJPLavm6NkIdkfg?usp=sharing)
 
-###  pseudo-code
+**pseudo-code**
 ```
 
 1. Import necessary libraries and packages
@@ -130,3 +130,6 @@ Two Ways to access it:
 
 8. Display the results of model evaluations
 ```
+
+**flowchart**
+![image](DataAnalysis.png)
