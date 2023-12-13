@@ -1,11 +1,12 @@
-## Description
+**Description**
+
 This dataset is mainly queried from Kaggle (https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy), which is an open data source sorted by Ansh Tanwar. It showcases sustainable energy indicators and other useful factors across countries from 2000 to 2020. We can dive into vital aspects such as renewable energy, energy intensity, financial flows, and economic growth; and gain profound insights into global energy consumption patterns by comparisons. 
 
 Considering the completeness and real-time nature of the data, I downloaded new data for 2021-2022 from the World Bank (https://datacatalog.worldbank.org/search/dataset/0037712/World-Development-Indicators).
 
 I also wrote a code to scrape data from Weibo, the data will include post texts, posting time, location, etc.. It will be applied in the causal inference part, which can indicate public feelings on policy launching.
 
-## Sample Data
+**Sample Data**
 
 |Entity	|Year	|Access to electricity (% of population)	|Access to clean fuels for cooking|	Renewable-electricity-generating-capacity-per-capita | Financial flows to developing countries (US $)|	Renewable energy share in the total final energy consumption (%)|	Electricity from fossil fuels (TWh) | Electricity from nuclear (TWh) |	Electricity from renewables (TWh) |	Low-carbon electricity (% electricity) | Primary energy consumption per capita (kWh/person)	|Energy intensity level of primary energy (MJ/$2017 PPP GDP)|	Value co2 emissions kt by country |	Renewables (% equivalent primary energy)|	gdp_growth|	gdp_per_capita	|Density\n(P/Km2)	|Land Area(Km2)	|Latitude|	Longitude|
 |--------|---------|--------|-------|---------|--------|--------|--------|--------|--------|-------|---------|--------|--------|--------|--------|--------|-------|---------|--------|--------|
@@ -17,7 +18,7 @@ I also wrote a code to scrape data from Weibo, the data will include post texts,
 
 It is apparent to find that there exist null data, which should be cleaned before analysis.
 
-## Data Dictionary for Global Data on Sustainable Energy
+**Data Dictionary for Global Data on Sustainable Energy**
 
 | Variable Name | Description | Type | Range | Units | Frequency | Additional Notes |
 |--------|--------------|------|-------|---------|-----------|--------|
@@ -44,5 +45,6 @@ It is apparent to find that there exist null data, which should be cleaned befor
 |Longitude| Longitude of the country's centroid in decimal degrees|float64||||eg. 1.659626|
 
 
-## flowchart
+**flowchart**
+
 ![image](DataQuery.png)
