@@ -27,13 +27,14 @@ The X variables, Renewable electricity generating capacity per capita, Low-carbo
  
 - **Justification:** 
 First of all, by common sense, we know that if citizens have easier or more access to renewable energy, consumption will increase accordingly.
-Additionally, a study suggests that CCPs increase green patents from 2000 to 2021 (Bettarelli et al., 2023). This indicates that policies can indeed have a significant impact on advancing renewable energy technologies and, by extension, their share in the total energy mix.
-Lastly, according to the IEA, the share of renewable energy resources is expected to reach 30% by 2024, which is a larger proportion compared to that of today (Emily, 2023). It is a strong proof of my hypothesis.
+Additionally, a study suggests that CCPs increase green patents from 2000 to 2021 (Bettarelli et al. 2023). This indicates that policies can indeed have a significant impact on advancing renewable energy technologies and, by extension, their share in the total energy mix.
+Lastly, according to the IEA, the share of renewable energy resources is expected to reach 30% by 2024, which is a larger proportion compared to that of today (Emily 2023). It is a strong proof of my hypothesis.
 
 - **Machine Learning Algorithm Selection:**
-For the causal inference part, I will apply RDD. RDd is particularly suitable for evaluating the causal impact of policy launching where there is a clear cut-off for receiving the treatment. Also, RDD can be particularly insightful as the policy’s implementation varied significantly across different regions or at different times.
 
-For the prediction part, I would like to employ three different regression models for prediction: Random Forest Regressor, Linear Regression, and Gradient Boosting Regressor. Random Forest Regressor is chosen for its ability to handle non-linear relationships, Linear Regression for simplicity and interpretability, and Gradient Boosting Regressor for its high accuracy in complex datasets. Each model has its unique strengths, which I will explore and compare, and finally find the best one to fit. 
+For the prediction part, I would like to employ three different regression models for prediction: Random Forest Regressor, Linear Regression, and Gradient Boosting Regressor. Random Forest Regressor is chosen for its ability to handle non-linear relationships, Linear Regression for simplicity and interpretability, and Gradient Boosting Regressor for its high accuracy in complex datasets (Sarswatula et al 2022). Each model has its unique strengths, which I will explore and compare, and finally find the best one to fit. 
+
+For Forecasting the future trend, I apply the VAR model for forecasting renewable energy consumption in Asia, which covers a larger area. VAR is especially useful for forecasting interrelated time series and analyzing the dynamic impact of random disturbances, which means it can capture the relationship between several variables over time (Meng et al. 2022).
 
 ---
 
@@ -51,11 +52,11 @@ The dataset is split into 80% for training and 20% for testing, which is a commo
 First, to Visualize CO2 emissions in respective countries, I will plot line charts, bar charts, etc. Line charts will illustrate trends over time, while bar charts will compare renewable energy consumption across different regions.
 Second, I may plan to do a visualized classification through region, to classify different levels of renewable energy consumption. It will make prediction work better in principle, since the data in the same group may have similar features.
 Third, to showcase correlations between data embedded in the dataset, I will use the correlation heatmap, which is the most intuitive diagram.
-Finally, I would try different predicting and forecasting models, including Linear Regression, Random Forest, Gradient Boosting, and VAR models, so as to predict the consumption trend in the coming three years.
+Finally, I would try different predicting and forecasting models, including Linear Regression, Random Forest, Gradient Boosting, and VAR models, so as to predict and forecast the consumption trend in the coming three years.
  
 **2.3.Model Evaluation:**
 - **Evaluation Criteria:**
-The results will be shown by their Mean Squared Error and R-squared, in order to find the best fitted prediction model.
+The results will be shown by their Mean Squared Error and R-squared, in order to find the best fitted prediction model (Sarswatula et al 2022).
 
 - **Iterative Improvement:**
 
