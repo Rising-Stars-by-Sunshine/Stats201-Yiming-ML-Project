@@ -9,6 +9,7 @@ Data section includes data query and data analysis.
 
 
 **Code**
+
 Two Ways to access it:
 1. See ipynb code uploaded to Github [here](https://github.com/Rising-Stars-by-Sunshine/Stats201-Yiming-ML-Project/blob/main/code/scraper.py).
 2. [Link for code in CoLab](https://colab.research.google.com/drive/1GVRQS_lPPvG4PGDtL9XREuSXiEv3eQit?usp=sharing)
@@ -45,12 +46,14 @@ When the script is run:
 ```
 
 **flowchart**
+
 ![image](DataQueryCode.png)
 
 
 ## Data Analysis
 
 **Methodology:**
+
 1. Data Preparation
 
 2. CO2 Emission Situation 
@@ -70,11 +73,13 @@ When the script is run:
 **Code**
 
 **1. Data Process**
+
 Two Ways to access it:
 1. See py code uploaded to Github [here](https://github.com/Rising-Stars-by-Sunshine/Stats201-Yiming-ML-Project/blob/main/code/process.py)
 2.  [Link for code in CoLab](https://colab.research.google.com/drive/14pV7HPZY4tLFAsLHBs_Tk4hbmpbAdEHz?usp=sharing)
 
 **2. Data Analysis**
+
 Two Ways to access it:
 1. See py code uploaded to Github [here](https://github.com/Rising-Stars-by-Sunshine/Stats201-Yiming-ML-Project/blob/main/code/data_analysis.py).
 
