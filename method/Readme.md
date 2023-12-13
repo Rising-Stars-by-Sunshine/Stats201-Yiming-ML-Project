@@ -1,5 +1,7 @@
 In Method, I will introduce my research on Machine Learning for Prediction from the research problem and the machine learning workflow:
 
+---
+
 **1. The Prediction Problem**
 
 **1.1. Research Question Formulation:** 
@@ -29,6 +31,8 @@ Lastly, according to the IEA, the share of renewable energy resources is expecte
 For the causal inference part, I will apply RDD. RDd is particularly suitable for evaluating the causal impact of policy launching where there is a clear cut-off for receiving the treatment. Also, RDD can be particularly insightful as the policy’s implementation varied significantly across different regions or at different times.
 
 For the prediction part, I would like to employ three different regression models for prediction: Random Forest Regressor, Linear Regression, and Gradient Boosting Regressor. Random Forest Regressor is chosen for its ability to handle non-linear relationships, Linear Regression for simplicity and interpretability, and Gradient Boosting Regressor for its high accuracy in complex datasets. Each model has its unique strengths, which I will explore and compare, and finally find the best one to fit. 
+
+---
 
 **2. The Machine Learning Workflow**
 
