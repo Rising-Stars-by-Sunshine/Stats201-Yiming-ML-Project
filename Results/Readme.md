@@ -56,3 +56,5 @@ This figure shows the Historical and Forecast Data of Renewable Energy Consumpti
 
 The energy consumption in Asia is not a smooth curve. Thus, this may be related to the impact of policy release, then further research may be able to use causal influence to study the impact of policy release on energy consumption.
 
+**Flowchart**
+![image](Results.png)
