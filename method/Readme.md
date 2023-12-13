@@ -7,11 +7,11 @@ In Method, I will introduce my research on Machine Learning for Prediction from 
 **1.1. Research Question Formulation:** 
 - **Objective:**
 
-What is the current CO2 emission situation?
+a. What is the current CO2 emission situation?
 
-What is the best model that fits the prediction curve concerning renewable energy consumption in Asia?
+b. What is the best model that fits the prediction curve concerning renewable energy consumption in Asia?
 
-What is the future trend of renewable energy consumption going like in Asia?
+c. What is the future trend of renewable energy consumption going like in Asia?
 
 - **Significance:**
 Global CO2 emissions from energy combustion and industrial processes grew by 0.9% or 321 Mt in 2022, reaching up to a new all-time high of 36.8 Gt (IEA 2023). However, Emissions need to fall to 9.7 Gt in 2050 for an emissions pathway compatible with the 2 °C target of the Paris Agreement (Gielen et al. 2019). Renewable energy makes up most of the emission reductions. Therefore, with the growing global demand for renewable energy, understanding the main factors affecting energy consumption becomes crucial. The proliferation of renewable energy is essential for achieving climate targets, reducing dependence on fossil fuels, and promoting sustainable economic development. In this research, it is significant to analyze the key factors affecting energy consumption and predict future consumption trends to provide data support for policy-making or investment decisions.
@@ -59,11 +59,11 @@ The results will be shown by their Mean Squared Error and R-squared, in order to
 
 - **Iterative Improvement:**
 
-Ongoing Feature Evaluation:
+a. Ongoing Feature Evaluation:
 Periodically assess the relevance of my selected features in relation to the target variable "Primary energy consumption per capita (kWh/person)." Remove or replace features that do not contribute significantly to the model's predictive accuracy.
 
-Algorithm Fine-tuning: 
+b. Algorithm Fine-tuning: 
 Optimize the hyperparameters and configurations specific to the Random Forest Regressor, Linear Regression, and Gradient Boosting Regressor.
 
-Stability Assessment: 
+c. Stability Assessment: 
 Implement cross-validation techniques suitable for time series data to ensure stability and reliability. 
