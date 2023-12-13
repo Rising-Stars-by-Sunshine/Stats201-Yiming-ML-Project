@@ -33,14 +33,14 @@
 
 
 ## Table of Contents
-- literature
-- method
-- data
-- code
-- results
-- spotlight
-- more about the author
-- references
+- [literature](https://github.com/Rising-Stars-by-Sunshine/Stats201-Yiming-ML-Project/tree/main/literature)
+- [method](https://github.com/Rising-Stars-by-Sunshine/Stats201-Yiming-ML-Project/tree/main/method)
+- [data](https://github.com/Rising-Stars-by-Sunshine/Stats201-Yiming-ML-Project/tree/main/data)
+- [code](https://github.com/Rising-Stars-by-Sunshine/Stats201-Yiming-ML-Project/tree/main/code)
+- [results](https://github.com/Rising-Stars-by-Sunshine/Stats201-Yiming-ML-Project/tree/main/Results)
+- [spotlight](https://github.com/Rising-Stars-by-Sunshine/Stats201-Yiming-ML-Project/tree/main/spotlight)
+- [more about the author](https://github.com/Rising-Stars-by-Sunshine/Stats201-Yiming-ML-Project/tree/main#more-about-the-author)
+- [references](https://github.com/Rising-Stars-by-Sunshine/Stats201-Yiming-ML-Project/tree/main#references)
 
 ## Literature
 The existing research uses the SVR model for forecasting energy consumption, focused on China (Meng et al., 2022). In my research, I apply the VAR model for forecasting renewable energy consumption in Asia, which covers a larger area. VAR is especially useful for forecasting interrelated time series and analyzing the dynamic impact of random disturbances, which means it can capture the relationship between several variables over time. However, the prediction accuracy of 97.5% is a bit lower than the existing research, which is possibly because of the diversity in Asian countries.
@@ -66,9 +66,7 @@ Folder here containing all applied figures
 
 Yiming Yuan, an undergraduate at Duke Kunshan University, majored in Applied Mathematics. My interests are in mathematics, especially probability and statistics; in disciplinary learning, especially machine learning. I was a research assistant studying the impacts on mental health from climate change based on sentimental analysis; I also have experience in image recognition based on Nmist and Cifar.
 
-## Resume
-
-**Complete PDF version here**
+**Resume**
 [github-Yiming Yuan-Resume.pdf](https://github.com/Rising-Stars-by-Sunshine/Stats201-Yiming-ML-Project/files/13659169/github-Yiming.Yuan-Resume.pdf)
 
 
