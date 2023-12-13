@@ -11,8 +11,8 @@
     
   - Research Questions
     1. What is the current CO2 emission situation globally?
-    2. What is the best model that fits the prediction curve concerning renewable energy consumption among linear regression, random forest, and gradient boosting?
-    3. What is the trend of renewable energy consumption going in the coming 3 years?
+    2. Which is the best model, among linear regression, random forest, and gradient boosting, that fits the prediction curve concerning renewable energy consumption in Asia?
+    3. What is the trend of renewable energy consumption in Asia going in the coming 3 years?
 
   - Application Scenario (Data Source)
     
@@ -20,7 +20,7 @@
     
   - Methodology
 
-    First, this research applies data visualization to uncover the CO2 Emission Situation and raises the significance of energy consumption. Second, it provides classification by continent and then continues to focus on Asia. Third, it explores the Correlation among indicators via Heatmap and Scatterplot, to find the significant features of renewable energy consumption. Last, this research applies three models for Prediction: Linear Regression, Random Forest, and Gradient Boosting; and the VAR Vector autoregressive model) for forecasting the future trend.
+    First, this research applies data visualization to uncover the CO2 Emission Situation and raises the significance of energy consumption. Second, it provides classification by continent and then continues to focus on Asia. Third, it explores the Correlation among indicators via Heatmap and Scatterplot, to find the significant features of renewable energy consumption. Last, this research applies three models for Prediction: Linear Regression, Random Forest, and Gradient Boosting; and the VAR (Vector autoregressive model) for forecasting the future trend.
     
   - Results
 
