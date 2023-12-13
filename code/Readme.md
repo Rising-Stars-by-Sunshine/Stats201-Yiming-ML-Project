@@ -10,7 +10,7 @@ Data section includes data query and data analysis.
 
 ### Code
 Two Ways to access it:
-1. See ipynb code uploaded to Github [here](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_PS2/tree/main/code/data%20query).
+1. See ipynb code uploaded to Github [here](https://github.com/Rising-Stars-by-Sunshine/Stats201-Yiming-ML-Project/blob/main/code/scraper.py).
 2. [Link for code in CoLab](https://colab.research.google.com/drive/1GVRQS_lPPvG4PGDtL9XREuSXiEv3eQit?usp=sharing)
 
 ###  pseudo-code
@@ -71,11 +71,62 @@ When the script is run:
 
 **Data Process**
 Two Ways to access it:
-1. See py code uploaded to Github [here]()
+1. See py code uploaded to Github [here](https://github.com/Rising-Stars-by-Sunshine/Stats201-Yiming-ML-Project/blob/main/code/process.py)
 2.  [Link for code in CoLab](https://colab.research.google.com/drive/14pV7HPZY4tLFAsLHBs_Tk4hbmpbAdEHz?usp=sharing)
 
 **Data Analysis**
 Two Ways to access it:
-1. See py code uploaded to Github [here](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiming_Research-Proposal/blob/main/code/data%20analysis/data_analysis.py).
+1. See py code uploaded to Github [here](https://github.com/Rising-Stars-by-Sunshine/Stats201-Yiming-ML-Project/blob/main/code/data_analysis.py).
 
 2. [Link for code in CoLab](https://colab.research.google.com/drive/1EiOV6f8YtB9a-EhkOMJPLavm6NkIdkfg?usp=sharing)
+
+###  pseudo-code
+```
+
+1. Import necessary libraries and packages
+
+2. Install specific libraries if not already available (e.g., pycountry-convert, sktime)
+
+3. Data Preparation
+
+  3.1. Load data from a CSV file into a DataFrame
+     - The CSV file is 'global_data_on_sustainable_energy.csv'
+
+  3.2. Display basic information about the DataFrame
+
+  3.3. For each column in the DataFrame:
+     - If the column contains numerical data in string format:
+       - Remove commas and convert the data to float
+     - Otherwise, leave the column as is
+
+  3.4. Rename specific columns for better readability
+
+  3.5. Handle missing values in the DataFrame
+     - Remove rows with missing critical information (like 'Entity' or 'Year')
+     - Fill other missing values with 0 or another appropriate value
+
+4. Visualize CO2 emissions data
+   - Calculate average CO2 emissions by country
+   - Display a bar chart showing top countries with the highest average CO2 emissions
+
+5. Classification by region
+   - Define a function to convert country names to their respective continents
+   - Apply this function to the DataFrame to create a new 'Continent' column
+
+6. Prepare data for machine learning
+    - Select relevant features and target variable
+    - Split data into training and testing sets
+
+7. Implement and evaluate different machine learning models:
+    - Linear Regression
+    - Random Forest
+    - Gradient Boosting
+    - For each model:
+      - Perform hyperparameter tuning using GridSearchCV
+      - Fit the model on the training data
+      - Make predictions on the test data
+      - Evaluate the model using metrics like MSE and R-squared
+      - Store the evaluation results
+
+8. Display the results of model evaluations
+```
