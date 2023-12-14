@@ -31,6 +31,7 @@
     1. Through a combination of exploratory data analysis and predictive modeling techniques, this research raises the significance of renewable energy and provides the forecasting of energy consumption trends.
     2. By leveraging this dataset, this research intends to uncover insights into the evolving landscape of energy consumption patterns. This endeavor contributes to well-informed decision-making in the domains of energy policies and investments.
 
+![image](spotlight/figures/poster.png)
 
 ## Table of Contents
 - [Literature](https://github.com/Rising-Stars-by-Sunshine/Stats201-Yiming-ML-Project/tree/main/literature)
@@ -379,8 +380,6 @@ The energy consumption in Asia is not a smooth curve. Thus, this may be related 
 ![image](spotlight/figures/Results.png)
 
 ## Spotlight
-
-![image](spotlight/figures/poster.png)
 
 Check in the folder [here](https://github.com/Rising-Stars-by-Sunshine/Stats201-Yiming-ML-Project/tree/main/spotlight), containing all applied figures 
 
