@@ -428,6 +428,54 @@ Energy Policy, Volume 160, 2022, 112718, ISSN 0301-4215, https://doi.org/10.1016
 - Meng, Zhaosu, Huike Sun, and Xi Wang. “Forecasting Energy Consumption Based on SVR and Markov Model: A Case Study of China.” Frontiers, April 6, 2022. https://www.frontiersin.org/articles/10.3389/fenvs.2022.883711/full.
 - Sarswatula, Sai Aravind, Tanna Pugh, and Vittaldas Prabhu. “Modeling Energy Consumption Using Machine Learning.” Frontiers, May 31, 2022. https://www.frontiersin.org/articles/10.3389/fmtec.2022.855208/full.  
  
+**bibtex**
+```
+@article{gielen2019role,
+  title={The role of renewable energy in the global energy transformation},
+  author={Gielen, Dolf and Boshell, Francisco and Saygin, Deger and Bazilian, Morgan D and Wagner, Nicholas and Gorini, Ricardo},
+  journal={Energy strategy reviews},
+  volume={24},
+  pages={38--50},
+  year={2019},
+  publisher={Elsevier}
+}
 
+@article{meng2022forecasting,
+  title={Forecasting energy consumption based on SVR and Markov model: A case study of China},
+  author={Meng, Zhaosu and Sun, Huike and Wang, Xi},
+  journal={Frontiers in Environmental Science},
+  volume={10},
+  pages={883711},
+  year={2022},
+  publisher={Frontiers}
+}
+
+@article{bettarelli2023environmental,
+  title={Environmental Policies and Innovation in Renewable Energy},
+  author={Bettarelli, Luca and Furceri, Davide and Pizzuto, Pietro and Shakoor, Nadia},
+  year={2023},
+  publisher={IMF Working Paper}
+}
+
+@article{wen2022research,
+  title={Research on influencing factors of renewable energy, energy efficiency, on technological innovation. Does trade, investment and human capital development matter?},
+  author={Wen, Jun and Okolo, Chukwuemeka Valentine and Ugwuoke, Ifeanyi Celestine and Kolani, Kibir},
+  journal={Energy Policy},
+  volume={160},
+  pages={112718},
+  year={2022},
+  publisher={Elsevier}
+}
+
+@article{sarswatula2022modeling,
+  title={Modeling energy consumption using machine learning},
+  author={Sarswatula, Sai Aravind and Pugh, Tanna and Prabhu, Vittaldas},
+  journal={Frontiers in Manufacturing Technology},
+  volume={2},
+  pages={855208},
+  year={2022},
+  publisher={Frontiers}
+}
+```
 
 
